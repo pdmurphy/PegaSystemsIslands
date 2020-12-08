@@ -1,0 +1,6 @@
+com\map\api\MapApiResource.class
+com\map\utility\MapUtility.class
+com\map\api\MapRestController.class
+com\map\evaluation\MapEvaluation.class
+com\map\evaluation\IslandEvaluation.class
+com\map\application\Application.class
